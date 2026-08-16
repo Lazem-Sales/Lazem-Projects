@@ -1,0 +1,151 @@
+[
+  {
+    "client": "وزارة الثقافة",
+    "sub": "Ministry of Culture",
+    "code": "LZM-CWA-B+-MOC-25",
+    "logo": "assets/logo-moc.png",
+    "services": [
+      {
+        "type": "clinic",
+        "level": "BLS"
+      },
+      {
+        "type": "ambulance",
+        "level": "BLS"
+      }
+    ],
+    "days": 7,
+    "hours": 12,
+    "start": "2025-10-18",
+    "end": "2026-11-18"
+  },
+  {
+    "client": "الأكاديمية الوطنية للصناعات العسكرية",
+    "sub": "Academy of Defense Industries",
+    "code": "LZM-CLI-B+-ADI-24",
+    "logo": "assets/logo-adi.png",
+    "services": [
+      {
+        "type": "clinic",
+        "level": "BLS"
+      }
+    ],
+    "days": 5,
+    "hours": 8,
+    "start": "2025-04-21",
+    "end": "2026-12-31"
+  },
+  {
+    "client": "شركة سانير ايار للانتاج الفني",
+    "sub": "Senyar Group",
+    "code": "LZM-FMC-A-SYG-25",
+    "logo": "assets/logo-syg.png",
+    "services": [
+      {
+        "type": "ambulance",
+        "level": "ALS"
+      }
+    ],
+    "days": 7,
+    "hours": 12,
+    "start": "2025-11-04",
+    "end": "2026-11-04",
+    "suspendedSince": "2026-03-12"
+  },
+  {
+    "client": "معادن ايفانهو الكتريك",
+    "sub": "Ivanhoe Electric",
+    "code": "LZM-FMC-B+-MIE-24",
+    "logo": "assets/logo-mie.png",
+    "services": [
+      {
+        "type": "ambulance",
+        "level": "BLS"
+      }
+    ],
+    "days": 7,
+    "hours": 10,
+    "start": "2026-01-01",
+    "end": "2027-01-01"
+  },
+  {
+    "client": "مركز الملك عبدالله للدراسات والبحوث البترولية",
+    "sub": "KAPSARC",
+    "code": "LZM-FMC-A-KAP-23",
+    "logo": "assets/logo-kap.png",
+    "services": [
+      {
+        "type": "ambulance",
+        "level": "ALS"
+      }
+    ],
+    "days": 7,
+    "hours": 24,
+    "start": "2025-08-20",
+    "end": "2027-08-19"
+  },
+  {
+    "client": "شركة الكيميائية السعودية المحدودة",
+    "sub": "Saudi Chemical Company",
+    "code": "LZM-CWA-A-SCC-23",
+    "logo": "assets/logo-scc.png",
+    "services": [
+      {
+        "type": "clinic",
+        "level": "ALS"
+      },
+      {
+        "type": "ambulance",
+        "level": "BLS"
+      }
+    ],
+    "days": 7,
+    "hours": 24,
+    "start": "2025-07-07",
+    "end": "2027-07-07"
+  },
+  {
+    "client": "المقاولون المبتكرون للمعايير المتطورة",
+    "sub": "ICAD — Al-Murabba Project",
+    "code": "LZM-CWA-B+-ICD-25",
+    "logo": "assets/logo-icd.png",
+    "services": [
+      {
+        "type": "clinic",
+        "level": "BLS"
+      },
+      {
+        "type": "ambulance",
+        "level": "BLS"
+      }
+    ],
+    "days": 7,
+    "hours": 24,
+    "start": "2025-10-27",
+    "end": "2026-10-31"
+  },
+  {
+    "client": "الهيئة السعودية للمدن الصناعية",
+    "sub": "MODON",
+    "code": "LZM-FMC-A+-MDN-24",
+    "logo": "assets/logo-mdn.png",
+    "services": [
+      {
+        "type": "ambulance",
+        "level": "ALS"
+      }
+    ],
+    "days": 7,
+    "hours": 24,
+    "start": "2025-08-07",
+    "end": "2028-08-06",
+    "multiCity": "التشغيل في 5 مدن",
+    "cities": [
+      "الدمام الثالثة",
+      "جدة الثانية",
+      "الخرج",
+      "سدير",
+      "وعد الشمال"
+    ]
+  }
+]
